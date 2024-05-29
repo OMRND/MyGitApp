@@ -9,6 +9,9 @@
 <body>
     <form id="form1" runat="server">
         <div>
+            <asp:Label ID="lblMag" runat="server" ></asp:Label>
+        </div>
+        <div>
             Dashboard HR
         </div>
     </form>
