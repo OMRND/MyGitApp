@@ -14,6 +14,8 @@
         <div>
             Dashboard HR
         </div>
+        <br>
+        Add HR Data
     </form>
 </body>
 </html>
